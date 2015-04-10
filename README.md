@@ -1,0 +1,2 @@
+# sbtex
+Exercise for sbt.
